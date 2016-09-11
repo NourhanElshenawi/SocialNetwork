@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad81dc45-be00-4e56-ace6-41d869f52b61" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/Material-Design-Iconic-Font.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/Material-Design-Iconic-Font.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/Material-Design-Iconic-Font.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-arrows.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-arrows.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-arrows.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-clothing.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-clothing.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-clothing.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-emotions.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-emotions.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-emotions.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-food.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-food.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-food.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-general.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-general.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-general.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-household.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-household.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-household.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-medical-science.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-medical-science.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-medical-science.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-multimedia.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-multimedia.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-multimedia.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-nature.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-nature.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-nature.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-shopping-finance.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-shopping-finance.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-shopping-finance.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-sports.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-sports.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-sports.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-vehicle-navigation.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-vehicle-navigation.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-vehicle-navigation.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-weather.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-weather.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-weather.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/fonts/slick.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/fonts/slick.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/fonts/slick.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/select2-spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/select2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/select2x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/food1-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/food1-wide.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/food1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/lock-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/child-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/guy-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/guy-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/guy-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/guy-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/guy-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/guy-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/guy-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/guy-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/guy-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/woman-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/woman-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/woman-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/woman-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/woman-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/woman-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/woman-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/woman-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/woman-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/110/woman-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/child-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/guy-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/guy-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/guy-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/guy-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/guy-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/guy-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/guy-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/guy-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/guy-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/woman-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/woman-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/woman-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/woman-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/woman-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/woman-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/woman-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/woman-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/woman-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/people/50/woman-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/place1-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/place1-wide.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/place1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/place2-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/place2-wide.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/place2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/place3-full.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/place3-wide.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/place3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/profile-cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/social/100/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/social/100/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/social/100/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/SocialNetwork.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/blank.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/charts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/chat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/colors-alerts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/colors-background.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/colors-buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/colors-calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/colors-progress-bars.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/colors-text.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/cover.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/essentials.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/maps.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/media.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/navbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/sidebar-skins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/sidebar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/timeline.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app/ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/Material-Design-Iconic-Font.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-arrows.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-clothing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-emotions.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-food.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-general.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-household.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-medical-science.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-multimedia.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-nature.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-shopping-finance.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-sports.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-vehicle-navigation.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/picto-foundry-weather.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/skin-blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/skin-brown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/skin-default-nav-inverse.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/skin-orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/skin-purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/bootstrap-slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/datepicker3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/daterangepicker-bs3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/fonts/slick.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/jquery-jvectormap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/jquery.bootstrap-touchspin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/jquery.minicolors.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/material-design-iconic-font.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/morris.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/picto.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/railscasts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/slick.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/vendor/ui.fancytree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/essential-buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/essential-forms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/essential-grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/essential-icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/essential-progress.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/essential-tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/essential-tabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/flags/Flag_of_France.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/flags/Flag_of_Germany.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/flags/Flag_of_Poland.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/flags/Flag_of_Romania.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/flags/Flag_of_the_United_States.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/charts/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/charts/easy-pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/charts/flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/charts/morris.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/charts/sparkline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/chat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/essentials.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/maps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/player.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/sidebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/timeline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/easy-pie/jquery.easypiechart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/flot/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/flot/jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/flot/jquery.flot.orderBars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/flot/jquery.flot.pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/flot/jquery.flot.resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/flot/jquery.flot.stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/morris/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/morris/morris.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/morris/raphael.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/chart-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/chart-box.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/chart-bullet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/chart-discrete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/chart-line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/chart-pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/chart-tristate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/defaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/footer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/interact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/rangemap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/simpledraw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/vcanvas-base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/vcanvas-canvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/charts/sparkline/vcanvas-vml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/breakpoints.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/holder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/isotope.pkgd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/jquery-ui.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/jquery-ui/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/jquery-ui/draggable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/jquery-ui/droppable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/jquery-ui/mouse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/jquery-ui/position.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/jquery-ui/resizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/jquery-ui/selectable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/jquery-ui/sortable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/jquery-ui/widget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/jquery.debouncedresize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/jquery.grid-a-licious.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/jquery.hotkeys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/jquery.nicescroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/load_image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/core/packery-mode.pkgd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/forms/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/forms/bootstrap-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/forms/bootstrap-select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/forms/bootstrap-slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/forms/bootstrap-switch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/forms/daterangepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/forms/jquery.bootstrap-touchspin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/forms/jquery.minicolors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/forms/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/forms/select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/maps/google/jquery-ui-map/addons/infobox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/maps/google/jquery-ui-map/addons/infobox_packed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/maps/google/jquery-ui-map/addons/markerclusterer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.microdata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.microformat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.overlays.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.rdfa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.services.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/media/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/media/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/media/slick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/nestable/jquery.nestable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/tables/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/tables/dataTables.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/tables/jquery.dataTables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/tree/jquery.fancytree-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/user-private-blank.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/user-private-messages.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/user-private-profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/user-private-timeline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/user-private-users.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/user-public-blank.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/user-public-profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/user-public-users.html" />
+    </list>
+    <ignored path="SocialNetwork.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SocialNetwork" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="1629" column="52" selection-start-line="1629" selection-start-column="52" selection-end-line="1629" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/social-2/index.html" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="977" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SocialNetwork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SocialNetwork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SocialNetwork" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SocialNetwork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SocialNetwork" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SocialNetwork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SocialNetwork" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="/usr/local/Cellar/php70/7.0.10_1/bin/php" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/css" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/js" />
+      <recent name="$PROJECT_DIR$/public/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad81dc45-be00-4e56-ace6-41d869f52b61" name="Default" comment="" />
+      <created>1473465198737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1473465198737</updated>
+      <workItem from="1473465199811" duration="641000" />
+      <workItem from="1473599244233" duration="3779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4420000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="977" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25239617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/dist/ui/color/js/app/all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/app/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/dist/themes/social-1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="117" column="48" selection-start-line="117" selection-start-column="42" selection-end-line="117" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="1629" column="52" selection-start-line="1629" selection-start-column="52" selection-end-line="1629" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
